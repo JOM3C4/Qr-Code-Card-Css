@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #D5E1EF;
+}
+.container{
+    min-width: 220px;
+    width: 90%;
+    margin: 0px auto;
+    margin-top: 30px;
+}
+.min-Container{
+    width: 313px;
+    height: 496px;
+    background-color: #FFFFFF;
+    padding: 25px;
+    margin: 0px auto;
+    border-radius: 20px;
+}
+.min-Container .min-Info{
+    padding: 15px;
+    text-align: center;
+}
+.min-Info p{
+    font-size: 20.5px;
+    margin-bottom: 20px;
+    color: #17253B;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+span{
+    color: gray;
+    
+}
+.img-CodeQR img{
+    width: 266px;
+    border-radius: 10px;
+}
